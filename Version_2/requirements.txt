@@ -1,0 +1,7 @@
+ultralytics
+pillow
+fastapi
+python-multipart
+uvicorn
+opencv-python-headless
+scikit-image
